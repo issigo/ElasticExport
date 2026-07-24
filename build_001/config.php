@@ -1,9 +1,9 @@
 <?php
 return [
 'elastic'=>[
-'url'=>'https://documentos.salud.gob.mx/',
-'usuario'=>'COMM850401HVZRRR05',
-'password'=>'"DSG%$',
+'url'=>'SERVIDOR KIBANA/ELASTIC',
+'usuario'=>'TU_USUARIO',
+'password'=>'TU_PASSWORD',
 'index'=>'rednegativa2*'
 ]
 ];
