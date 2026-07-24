@@ -8,24 +8,25 @@ ElasticExport es una aplicación web desarrollada en PHP para consultar, explora
 El proyecto está orientado a usuarios que requieren acceder a grandes volúmenes de datos de forma rápida, construir consultas de manera visual y exportar resultados a diferentes formatos como Excel, CSV y JSON.
 
 Características
-Conexión directa a Elasticsearch 7.x.
-Explorador automático de índices.
-Explorador de campos (Mappings).
-Constructor visual de consultas.
-Búsquedas por fechas, texto y campos personalizados.
-Exportación de resultados a Excel, CSV y JSON.
-Dashboard con información del clúster.
-Compatible con XAMPP (PHP 8+).
-Arquitectura modular para facilitar futuras ampliaciones.
-Tecnologías
-PHP 8+
-Elasticsearch 7.17.x
-Bootstrap 5
-JavaScript
-jQuery
-AJAX
-Composer
-PhpSpreadsheet
+- Conexión directa a Elasticsearch 7.x.
+- Explorador automático de índices.
+- Explorador de campos (Mappings).
+- Constructor visual de consultas.
+- Búsquedas por fechas, texto y campos personalizados.
+- Exportación de resultados a Excel, CSV y JSON.
+- Dashboard con información del clúster.
+- Compatible con XAMPP (PHP 8+).
+- Arquitectura modular para facilitar futuras ampliaciones.
+- Tecnologías
+- PHP 8+
+- Elasticsearch 7.17.x
+- Bootstrap 5
+- JavaScript
+- jQuery
+- AJAX
+- Composer
+- PhpSpreadsheet
+
 Objetivos
 Eliminar la dependencia de Kibana para consultas y exportaciones.
 Facilitar el acceso a grandes volúmenes de información.
