@@ -28,16 +28,23 @@ Características
 - PhpSpreadsheet
 
 Objetivos
-Eliminar la dependencia de Kibana para consultas y exportaciones.
-Facilitar el acceso a grandes volúmenes de información.
-Crear una herramienta ligera, rápida y fácil de desplegar.
-Proporcionar una interfaz amigable para usuarios técnicos y administrativos.
-Roadmap
+- Eliminar la dependencia de Kibana para consultas y exportaciones.
+- Facilitar el acceso a grandes volúmenes de información.
+- Crear una herramienta ligera, rápida y fácil de desplegar.
+- Proporcionar una interfaz amigable para usuarios técnicos y administrativos.
+- 
+Roadmap:
+
  ✅ Build 001 – Login y conexión a Elasticsearch
+ 
  🚧 Build 002 – Dashboard y explorador de índices
+ 
  ⏳ Build 003 – Constructor de consultas
+ 
  ⏳ Build 004 – Exportación a Excel, CSV y JSON
+ 
  ⏳ Build 005 – Consultas avanzadas y optimización para grandes volúmenes
+ 
 Estado del proyecto
 
 En desarrollo (Alpha)
